@@ -3,7 +3,7 @@ layout: article
 title: Welcome
 markdownpage: true
 ---
-<center> <h1>Welcome to Labtrac</h1> </center>
+<center> <h1>Labtrac Team Documentation</h1> </center>
 
 - - - 
 
