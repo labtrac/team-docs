@@ -416,9 +416,9 @@ Repeat these steps as many times as needed before finally completing the job as 
 <a class="offset" name="subcontracting"></a>
 ### Sub Contracting
 
-To Sub Contract a job, first you need to set up a list of **Sub-Contracters**. 
+To Sub Contract a job, first you need to set up a list of **Sub-Contractors**. 
 
-+ Double click **Sub-Contracters** in the contents bar. 
++ Double click **Sub-Contractors** in the contents bar. 
 
 + Click **Add** and fill in the relevant infomation, making sure to add a **Run** then **Save**.
 
@@ -428,14 +428,14 @@ To Sub Contract a job, first you need to set up a list of **Sub-Contracters**.
 
 ---
 
-+ Now you have your **Sub-Contracters** set up you can go through and enter a job as normal, however, once you launch the job click on **Task F10**, select **Sub-Contract** then **Send Out** (This changes the Job Status to **Sub Contract** ). Then select the date that the work is due back to you. 
++ Now you have your **Sub-Contractors** set up you can go through and enter a job as normal, however, once you launch the job click on **Task F10**, select **Sub-Contract** then **Send Out** (This changes the Job Status to **Sub Contract** ). Then select the date that the work is due back to you. 
 
 + When you recieve the work back again go to **Sub Contract** and select **Receive Back**.
 
-Repeat these steps as much as necessary before completeing th job as normal.
+Repeat these steps as much as necessary before completeing the job as normal.
 
 ---
 
-![Subcontracter](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_2.PNG "Sub Contract"){: .center-block.img-responsive}
+![Subcontractor](https://labtracdownloads.blob.core.windows.net/media/documentation%20videos/documentation%20images/sc_2.PNG "Sub Contract"){: .center-block.img-responsive}
 
 ---
